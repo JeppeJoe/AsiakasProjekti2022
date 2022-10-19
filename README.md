@@ -2,3 +2,4 @@
 
 
 ## Vaatimusmääritelmä
+### Peetu Vainio, Luca Lappalainen, Jeppe Joentausta, 
