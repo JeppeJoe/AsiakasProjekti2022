@@ -4,3 +4,7 @@
 
 ## Vaatimusmääritelmä
 
+Teemme .com loppuisen nettisivun, jos mulufikir.org ei ole käytettävissä. 
+
+
+
