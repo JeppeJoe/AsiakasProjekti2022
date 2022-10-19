@@ -1,5 +1,6 @@
 # AsiakasProjekti2022
-
+### Ryhmä 2
+#### Peetu Vainio, Luca Lappalainen, Jeppe Joentausta, Jami Nummela.
 
 ## Vaatimusmääritelmä
-### Peetu Vainio, Luca Lappalainen, Jeppe Joentausta, Jami 
+
