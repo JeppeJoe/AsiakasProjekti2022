@@ -2,4 +2,4 @@
 
 
 ## Vaatimusmääritelmä
-### Peetu Vainio, Luca Lappalainen, Jeppe Joentausta, 
+### Peetu Vainio, Luca Lappalainen, Jeppe Joentausta, Jami 
