@@ -10,4 +10,4 @@ Teemme nettisivun kokonaan englanniksi ja jos pystymme niin lisäämme amharan k
 #
 Lisäämme nettisivulle valikon jossa on nappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot ja yhteydenottolomake ja lahjoitus sivut.
 Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
-Meidän pitää myös laittaa yhteystiedot ja lahtjoitus jutskat nettivisujen alaosaan
+Meidän pitää myös laittaa yhteystiedot ja lahtjoitus jutskat nettivisujen alaosaan.
