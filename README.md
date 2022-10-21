@@ -12,4 +12,4 @@ Lisäämme nettisivulle valikon jossa on nappeja joista pääsee Mulun tarinaan,
 
 Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
 
-Meidän pitää myös laittaa yhteystiedot ja lahtjoitus jutskat nettivisujen alaosaan.
+Meidän pitää myös laittaa yhteystiedot ja lahjoitus jutskat nettivisujen alaosaan.
