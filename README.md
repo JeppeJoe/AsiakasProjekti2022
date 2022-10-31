@@ -12,6 +12,6 @@ Lisäämme nettisivulle valikon jossa on nappeja joista pääsee Mulun tarinaan,
 
 Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
 
-Meidän pitää myös laittaa yhteystiedot ja lahjoitus osiot nettivisujen alaosaan.
+Yhteystiedot ja lahjoitus osiot tulevat nettivisujen alaosaan.
 
 nettisivulle tulee kuvagalleria.
