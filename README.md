@@ -15,3 +15,6 @@ Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
 Yhteystiedot ja lahjoitus osiot tulevat nettivisujen alaosaan.
 
 nettisivulle tulee kuvagalleria.
+
+
+https://colorhunt.co/palette/dce8baf3d179f09872f46060
