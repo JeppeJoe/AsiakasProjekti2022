@@ -4,6 +4,9 @@
 
 ## Vaatimusmääritelmä
 
+Aijomme tehdä nettisivun, jossa on aloitussivu, jonka kautta pystyy navigoimaan palkkien kautta tarinoihin.
+Nettisivulla tulee myös olemaan kielivalikko lippujen kanssa, jolla pystyy muuttamaan kieltä englannin ja amharan kielen välillä.
+
 Teemme .com loppuisen nettisivun, jos mulufikir.org ei ole käytettävissä. 
 Käytämme Hostinger.fi
 
