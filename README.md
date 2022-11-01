@@ -13,7 +13,7 @@ Käytämme Hostinger.fi
 #
 Teemme nettisivun kokonaan englanniksi ja jos pystymme niin lisäämme amharan kielellä olevan version. 
 #
-Lisäämme nettisivulle valikon jossa on nappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot ja yhteydenottolomake ja lahjoitus sivut.
+Lisäämme nettisivulle drop down menunm jossa on nappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot ja yhteydenottolomake ja lahjoitus sivut.
 
 Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
 
