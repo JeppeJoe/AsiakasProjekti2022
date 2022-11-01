@@ -5,7 +5,7 @@
 ## Vaatimusmääritelmä
 
 Teemme .com loppuisen nettisivun, jos mulufikir.org ei ole käytettävissä. 
-Käytämme Hostinger.fi
+Ensimmäisenä vaihtoehtonamme on Hostinger.fi
 
 #
 Teemme nettisivun kokonaan englanniksi ja jos pystymme niin lisäämme amharan kielellä olevan version. 
