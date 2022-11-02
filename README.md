@@ -13,7 +13,7 @@ Nettisivulla tulee myös olemaan kielivalikko lippujen kanssa, jolla pystyy muut
 Käytämme nettisivujen hostaamiseen Hostinger.fi
 
 nettisivu kokonaan englanniksi ja jos pystymme niin lisäämme amharan kielellä olevan version. 
-Nettisivulla tulee olemaan aloitus sivu, jossa on palkkinappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot, yhteydenottolomake ja lahjoitus sivuille.
+Nettisivulla tulee olemaan aloitus sivu, jossa on palkkinappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot, yhteydenottolomake ja lahjoitus sivuille. 
 
 Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
 
