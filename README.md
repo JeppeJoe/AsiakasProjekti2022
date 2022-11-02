@@ -34,6 +34,7 @@ ei tehdä:
 ylimääräisiä ominaisuuksia
 
 ylimääräisiä someja
+Teemme Facebook käyttäjän.
 #
 
 
