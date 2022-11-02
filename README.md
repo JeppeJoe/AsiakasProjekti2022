@@ -40,3 +40,6 @@ ylimääräisiä someja
 https://colorhunt.co/palette/dce8baf3d179f09872f46060
 
 ![GraphicDesign](https://user-images.githubusercontent.com/113332647/199189975-33b3350d-f15a-409d-848a-7487938b4bbc.png)
+
+
+![Mulufikir](https://user-images.githubusercontent.com/113332647/199446119-74724fcd-fdb6-4014-a0fa-3aadd9eb0501.png)
