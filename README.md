@@ -4,15 +4,16 @@
 
 ## Vaatimusmääritelmä
 
-Aijomme tehdä nettisivun, jossa on aloitussivu, jonka kautta pystyy navigoimaan palkkien kautta tarinoihin.
+Tehdään:
+
+Nettisivu, jossa on aloitussivu, jonka kautta pystyy navigoimaan palkkien kautta tarinoihin.
 Nettisivulla tulee myös olemaan kielivalikko lippujen kanssa, jolla pystyy muuttamaan kieltä englannin ja amharan kielen välillä.
 
-Teemme .com loppuisen nettisivun, jos mulufikir.org ei ole käytettävissä. 
-Käytämme Hostinger.fi
+.com loppuinen nettisivu, jos mulufikir.org ei ole käytettävissä. 
+Käytämme nettisivujen hostaamiseen Hostinger.fi
 
-#
-Teemme nettisivun kokonaan englanniksi ja jos pystymme niin lisäämme amharan kielellä olevan version. 
-#
+nettisivu kokonaan englanniksi ja jos pystymme niin lisäämme amharan kielellä olevan version. 
+
 Lisäämme nettisivulle drop down menun, jossa on nappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot, yhteydenottolomake ja lahjoitus sivut.
 
 Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
@@ -20,6 +21,21 @@ Lahjoitus sivulle tulee tilinumerot ja muut tarvittavat.
 Yhteystiedot ja lahjoitus osiot tulevat nettivisujen alaosaan.
 
 nettisivulle tulee kuvagalleria.
+
+Raikas värimaailma.
+
+Helposti luettavat sivut.
+
+Esittely sivut nettisivulle.
+
+Korjataan logo/tehdään uusi, jos asiakkaalle sopii.
+#
+ei tehdä: 
+
+ylimääräisiä ominaisuuksia
+
+ylimääräisiä someja
+#
 
 
 https://colorhunt.co/palette/dce8baf3d179f09872f46060
