@@ -6,7 +6,7 @@
 
 Tehdään:
 
-Nettisivu, jossa on aloitussivu, jonka kautta pystyy navigoimaan palkkien kautta tarinoihin.
+Nettisivu, jossa on aloitussivu, jonka kautta pystyy navigoimaan palkkien kautta tarinoihin. Nettisivu tehdään käyttäen html.
 Nettisivulla tulee myös olemaan kielivalikko lippujen kanssa, jolla pystyy muuttamaan kieltä englannin ja amharan kielen välillä.
 
 .com loppuinen nettisivu, jos mulufikir.org ei ole käytettävissä. 
