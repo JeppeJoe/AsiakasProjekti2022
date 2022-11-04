@@ -46,6 +46,6 @@ https://colorhunt.co/palette/dce8baf3d179f09872f46060
 
 ![Mulufikir (1)](https://user-images.githubusercontent.com/113332647/199945273-d5124efe-23ab-46d4-87ea-a43c727f0428.png)
 
-
-![Logo_all_fixed](https://user-images.githubusercontent.com/113332647/199944170-8d9b4e04-bcf3-446d-8717-f8c39df63e3d.png)
-![logo_final_1](https://user-images.githubusercontent.com/113332647/199945413-7d219c3b-d576-4b0e-acf4-222acf77ff54.png)
+## Logo:
+  ![Logo_all_fixed](https://user-images.githubusercontent.com/113332647/199944170-8d9b4e04-bcf3-446d-8717-f8c39df63e3d.png)
+  ![logo_final_1](https://user-images.githubusercontent.com/113332647/199945413-7d219c3b-d576-4b0e-acf4-222acf77ff54.png)
