@@ -36,15 +36,15 @@ ylimääräisiä ominaisuuksia
 ylimääräisiä someja
 #
 
+## Graphic design:
+  https://colorhunt.co/palette/dce8baf3d179f09872f46060
 
-https://colorhunt.co/palette/dce8baf3d179f09872f46060
+  ![GraphicDesign](https://user-images.githubusercontent.com/113332647/199189975-33b3350d-f15a-409d-848a-7487938b4bbc.png)
 
-![GraphicDesign](https://user-images.githubusercontent.com/113332647/199189975-33b3350d-f15a-409d-848a-7487938b4bbc.png)
+## Flyer:
+  ![Mulufikir](https://user-images.githubusercontent.com/113332647/199446119-74724fcd-fdb6-4014-a0fa-3aadd9eb0501.png)
 
-
-![Mulufikir](https://user-images.githubusercontent.com/113332647/199446119-74724fcd-fdb6-4014-a0fa-3aadd9eb0501.png)
-
-![Mulufikir (1)](https://user-images.githubusercontent.com/113332647/199945273-d5124efe-23ab-46d4-87ea-a43c727f0428.png)
+  ![Mulufikir (1)](https://user-images.githubusercontent.com/113332647/199945273-d5124efe-23ab-46d4-87ea-a43c727f0428.png)
 
 ## Logo:
   ![Logo_all_fixed](https://user-images.githubusercontent.com/113332647/199944170-8d9b4e04-bcf3-446d-8717-f8c39df63e3d.png)
