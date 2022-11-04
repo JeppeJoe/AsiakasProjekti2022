@@ -12,6 +12,9 @@ Nettisivulla tulee myös olemaan kielivalikko lippujen kanssa, jolla pystyy muut
 
 .com loppuinen nettisivu, jos mulufikir.org ei ole käytettävissä. 
 Käytämme nettisivujen hostaamiseen Hostinger.fi
+Mulufikir.org maksaa: 12€
+Mulufikir.com maksaa: 9€
+Domainhotelli.fissä.
 
 nettisivu kokonaan englanniksi ja jos pystymme niin lisäämme amharan kielellä olevan version. 
 Nettisivulla tulee olemaan aloitus sivu, jossa on palkkinappeja joista pääsee Mulun tarinaan, Miten kaikki alkoi, kuvagalleria, yhteistiedot, yhteydenottolomake ja lahjoitus sivuille. 
