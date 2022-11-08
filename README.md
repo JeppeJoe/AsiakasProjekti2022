@@ -55,5 +55,6 @@ Teemme Facebook käyttäjän.
   ![Logo_all_fixed](https://user-images.githubusercontent.com/113332647/199944170-8d9b4e04-bcf3-446d-8717-f8c39df63e3d.png)
   ![logo_final_1](https://user-images.githubusercontent.com/113332647/199945413-7d219c3b-d576-4b0e-acf4-222acf77ff54.png)
   
-  ![mulufikir_logo](https://user-images.githubusercontent.com/113332647/200503379-98f54d28-30f5-4f3c-9dc5-020882dec43e.png)
+![mulufikir_logo](https://user-images.githubusercontent.com/113332647/200504127-7545c44f-6785-46c7-b7d3-8fe86b3302c8.png)
+
 
