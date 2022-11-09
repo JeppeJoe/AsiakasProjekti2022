@@ -31,6 +31,10 @@ Helposti luettavat sivut.
 
 Esittely sivut nettisivulle.
 
+Käytämme fonttina Khandia.
+
+Teemme Facebook käyttäjän.
+
 Korjataan logo/tehdään uusi, jos asiakkaalle sopii.
 #
 ei tehdä: 
@@ -38,7 +42,6 @@ ei tehdä:
 ylimääräisiä ominaisuuksia
 
 ylimääräisiä someja
-Teemme Facebook käyttäjän.
 #
 
 ## Graphic design:
