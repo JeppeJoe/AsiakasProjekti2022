@@ -50,10 +50,6 @@ ylimääräisiä someja
   ![A4 - 1 (1)](https://user-images.githubusercontent.com/113332647/199947201-3ffcc150-8836-465f-9fc7-758dba925d21.png)
 
 ## Flyer:
-  ![Mulufikir](https://user-images.githubusercontent.com/113332647/199446119-74724fcd-fdb6-4014-a0fa-3aadd9eb0501.png)
-
-  ![Mulufikir (1)](https://user-images.githubusercontent.com/113332647/199945273-d5124efe-23ab-46d4-87ea-a43c727f0428.png)
-  
 ![Mulufikir (3)](https://user-images.githubusercontent.com/113332647/200809031-d74ee22e-cf1a-4d2c-ae93-99b461d7caa0.png)
 
 
