@@ -54,7 +54,8 @@ ylimääräisiä someja
 
   ![Mulufikir (1)](https://user-images.githubusercontent.com/113332647/199945273-d5124efe-23ab-46d4-87ea-a43c727f0428.png)
   
-  ![Mulufikir (2)](https://user-images.githubusercontent.com/113332647/200805786-c5aeb2e0-6c95-489b-8264-a219b63b719f.png)
+![Mulufikir (3)](https://user-images.githubusercontent.com/113332647/200809031-d74ee22e-cf1a-4d2c-ae93-99b461d7caa0.png)
+
 
 
 ## Logo:
