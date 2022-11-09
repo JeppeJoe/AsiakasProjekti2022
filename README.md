@@ -60,6 +60,10 @@ ylimääräisiä someja
   
 ![mulufikir_logo](https://user-images.githubusercontent.com/113332647/200504127-7545c44f-6785-46c7-b7d3-8fe86b3302c8.png)
 
+## logo transparent:
+![mulufikir_log0_rgb_transparent](https://user-images.githubusercontent.com/113332647/200817255-327d5392-06d4-41db-abe6-089ad39d32b5.png)
+
+
 ## Logo Vector:
   RGB:
   ![mulufikir_log0_rgb](https://user-images.githubusercontent.com/113332647/200809861-0226cd90-9181-4661-81b4-b80b0c098620.svg)
