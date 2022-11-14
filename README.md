@@ -46,7 +46,7 @@ ylimääräisiä someja
 ### Hinnat
 Mulufikir.org  
 
-hostinger.fi   
+**hostinger.fi**   
 webhotelli  
 domain 7,99€ first year, after that 16,00€ = 55,99€  
 webhotelli 1,99/kk 48kk = 118,44€ / 106,60€  
