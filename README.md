@@ -58,12 +58,12 @@ webhotelli 177,96€/48kk
 = 233,95€/48kk  
 
 
-domainhotelli.fi  
+**domainhotelli.fi**  
 domain = 12€/year  
 webhost = 70,80€/year  
 verollinen hinta = 102,67€/year  
   
-wordpress  
+**wordpress**  
 Personal  
 2 years  
 web hosting = 84€   
