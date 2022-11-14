@@ -73,7 +73,7 @@ domain = 0€ + 19€ *
 premium  
 2 years  
 web hosting = 192€  
-domain = 19€ *  
+domain = 0€ + 19€ *  
 = 211€  
 *first years free  
 #
