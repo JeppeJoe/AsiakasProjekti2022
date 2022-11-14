@@ -43,6 +43,42 @@ ylimääräisiä ominaisuuksia
 
 ylimääräisiä someja
 #
+### Hinnat
+Mulufikir.org
+
+hostinger.fi
+webhotelli
+domain 7,99€ first year, after that 16,00€ = 55,99€
+webhotelli 1,99/kk 48kk = 118,44€ / 106,60€
+=174,43€/48kk 162,59€/48kk
+
+wordpress starter
+domain 7,99€ first year, after that 16,00€ = 55,99€
+webhotelli 177,96€/48kk
+= 233,95€/48kk
+
+
+domainhotelli.fi
+domain = 12€/year
+webhost = 70,80€/year
+verollinen hinta = 102,67€/year
+
+wordpress
+Personal
+2 years
+web hosting = 84€ 
+domain = 0€ + 19€ *
+=103€
+
+premium
+2 years
+web hosting = 192€
+domain = 19€ *
+= 211€
+*first years free
+
+
+
 ### Vastaukset
 Vanhasta mukufikir.org nettisivusta on mahdollista ottaa kuvia, mutta ne olisi huonolaatuisia ja käyttökelvottomia.
 Mulufikir.org domain on vapaana ja käytettävissä.
