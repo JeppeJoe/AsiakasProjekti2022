@@ -43,6 +43,9 @@ ylimääräisiä ominaisuuksia
 
 ylimääräisiä someja
 #
+### Vastaukset
+Vanhasta mukufikir.org nettisivusta on mahdollista ottaa kuvia, mutta ne olisi huonolaatuisia ja käyttökelvottomia.
+Mulufikir.org domain on vapaana ja käytettävissä.
 
 ## Graphic design:
   https://colorhunt.co/palette/dce8baf3d179f09872f46060
