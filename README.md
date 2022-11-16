@@ -125,3 +125,6 @@ Changes
 -Change the Welcome on the front page and place it on the image (white)
 -Welcome text and the menu lines change to white
 -The menu background can change to lighter pink and without black spacer
+
+![mulufikir_transparent111 Medium](https://user-images.githubusercontent.com/113332647/202146302-020fe9b5-2533-440b-81b6-015640b45f4c.jpeg)
+
