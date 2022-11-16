@@ -117,3 +117,11 @@ Mulufikir.org domain on vapaana ja käytettävissä.
 
 
 ![mulufikir_transparent111](https://user-images.githubusercontent.com/113332647/202137584-7bf5ec9e-a028-4c08-b15c-df55c27be49a.png)
+
+Changes
+-White background
+-Try to pop out the text over the image
+-Change the footer as the client wants
+-Change the Welcome on the front page and place it on the image (white)
+-Welcome text and the menu lines change to white
+-The menu background can change to lighter pink and without black spacer
