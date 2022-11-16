@@ -127,5 +127,6 @@ Changes
 -The menu background can change to lighter pink and without black spacer
 
 
-![mulufikir_log0_cmyk-2](https://user-images.githubusercontent.com/113332647/202146904-1a2d319d-56db-40db-bb7f-05b180044074.png)
+![mulufikir_log0_cmyk-3](https://user-images.githubusercontent.com/113332647/202147496-64c17f22-41eb-4fd6-bd33-b061a36d09f3.png)
+
 
