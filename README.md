@@ -109,3 +109,8 @@ Mulufikir.org domain on vapaana ja käytettävissä.
 
   CMYK:
   ![mulufikir_log0_cmyk](https://user-images.githubusercontent.com/113332647/200810032-ac311988-8936-4cc3-8942-07f10e3f3635.svg)
+  
+  
+## Test:
+  
+![mulufikir_log0_cmyk](https://user-images.githubusercontent.com/113332647/202134194-ef80088e-c2ce-440c-9062-68f1179acd3f.svg)
