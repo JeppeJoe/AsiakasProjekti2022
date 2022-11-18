@@ -89,9 +89,7 @@ Mulufikir.org domain on vapaana ja käytettävissä.
   ![A4 - 1 (1)](https://user-images.githubusercontent.com/113332647/199947201-3ffcc150-8836-465f-9fc7-758dba925d21.png)
 
 ## Flyer:
-![Mulufikir (3)](https://user-images.githubusercontent.com/113332647/200809031-d74ee22e-cf1a-4d2c-ae93-99b461d7caa0.png)
-![Mulufikir (4)](https://user-images.githubusercontent.com/113332647/201614836-b3266d88-0053-4548-bca2-88d5b6a71930.png)
-
+![Mulufikir (5)](https://user-images.githubusercontent.com/113332647/202651961-9d12f9d8-a591-490a-afb1-cabdb57f8ebe.png)
 
 ## Logo:
   ![Logo_all_fixed](https://user-images.githubusercontent.com/113332647/199944170-8d9b4e04-bcf3-446d-8717-f8c39df63e3d.png)
@@ -100,7 +98,7 @@ Mulufikir.org domain on vapaana ja käytettävissä.
 ![mulufikir_logo](https://user-images.githubusercontent.com/113332647/200504127-7545c44f-6785-46c7-b7d3-8fe86b3302c8.png)
 
 ## logo transparent:
-![mulufikir_log0_rgb_transparent](https://user-images.githubusercontent.com/113332647/200817255-327d5392-06d4-41db-abe6-089ad39d32b5.png)
+![mulufikir_log0_cmyk-3](https://user-images.githubusercontent.com/113332647/202147496-64c17f22-41eb-4fd6-bd33-b061a36d09f3.png)
 
 
 ## Logo Vector:
@@ -127,7 +125,7 @@ Changes
 -The menu background can change to lighter pink and without black spacer
 
 
-![mulufikir_log0_cmyk-3](https://user-images.githubusercontent.com/113332647/202147496-64c17f22-41eb-4fd6-bd33-b061a36d09f3.png)
+
 
 Final flyer:
 
