@@ -92,10 +92,8 @@ Mulufikir.org domain on vapaana ja käytettävissä.
 ![Mulufikir (5)](https://user-images.githubusercontent.com/113332647/202651961-9d12f9d8-a591-490a-afb1-cabdb57f8ebe.png)
 
 ## Logo:
-  ![Logo_all_fixed](https://user-images.githubusercontent.com/113332647/199944170-8d9b4e04-bcf3-446d-8717-f8c39df63e3d.png)
   ![logo_final_1](https://user-images.githubusercontent.com/113332647/199945413-7d219c3b-d576-4b0e-acf4-222acf77ff54.png)
   
-![mulufikir_logo](https://user-images.githubusercontent.com/113332647/200504127-7545c44f-6785-46c7-b7d3-8fe86b3302c8.png)
 
 ## logo transparent:
 ![mulufikir_log0_cmyk-3](https://user-images.githubusercontent.com/113332647/202147496-64c17f22-41eb-4fd6-bd33-b061a36d09f3.png)
@@ -107,14 +105,6 @@ Mulufikir.org domain on vapaana ja käytettävissä.
 
   CMYK:
   ![mulufikir_log0_cmyk](https://user-images.githubusercontent.com/113332647/200810032-ac311988-8936-4cc3-8942-07f10e3f3635.svg)
-  
-  
-## Test:
-  
-![mulufikir_log0_cmyk](https://user-images.githubusercontent.com/113332647/202134194-ef80088e-c2ce-440c-9062-68f1179acd3f.svg)
-
-
-![mulufikir_transparent111](https://user-images.githubusercontent.com/113332647/202137584-7bf5ec9e-a028-4c08-b15c-df55c27be49a.png)
 
 Changes
 -White background
@@ -123,11 +113,3 @@ Changes
 -Change the Welcome on the front page and place it on the image (white)
 -Welcome text and the menu lines change to white
 -The menu background can change to lighter pink and without black spacer
-
-
-
-
-Final flyer:
-
-
-
