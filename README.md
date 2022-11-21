@@ -86,7 +86,7 @@ Mulufikir.org domain on vapaana ja käytettävissä.
 ## Graphic design:
   
 
-  ![A4 - 1 (1)]![image](https://user-images.githubusercontent.com/113332609/203037917-963dd56a-71d7-4b48-8529-cdb842711bef.png)
+  ![image](https://user-images.githubusercontent.com/113332609/203037917-963dd56a-71d7-4b48-8529-cdb842711bef.png)
 
 ## Flyer:
 ![Mulufikir (5)](https://user-images.githubusercontent.com/113332647/202651961-9d12f9d8-a591-490a-afb1-cabdb57f8ebe.png)
