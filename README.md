@@ -84,9 +84,9 @@ Vanhasta mukufikir.org nettisivusta on mahdollista ottaa kuvia, mutta ne olisi h
 Mulufikir.org domain on vapaana ja käytettävissä.
 
 ## Graphic design:
-  https://colorhunt.co/palette/dce8baf3d179f09872f46060
+  
 
-  ![A4 - 1 (1)](https://user-images.githubusercontent.com/113332647/199947201-3ffcc150-8836-465f-9fc7-758dba925d21.png)
+  ![A4 - 1 (1)]![image](https://user-images.githubusercontent.com/113332609/203037917-963dd56a-71d7-4b48-8529-cdb842711bef.png)
 
 ## Flyer:
 ![Mulufikir (5)](https://user-images.githubusercontent.com/113332647/202651961-9d12f9d8-a591-490a-afb1-cabdb57f8ebe.png)
