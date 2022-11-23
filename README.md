@@ -78,7 +78,7 @@ domain = 0€ + 19€ *
 *first years free  
 #
 
-Asiakkaan budjetti?
+
 
 
 ### Vastaukset
