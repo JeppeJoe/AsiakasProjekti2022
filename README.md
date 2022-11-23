@@ -78,6 +78,8 @@ domain = 0€ + 19€ *
 *first years free  
 #
 
+Asiakkaan budjetti?
+
 
 ### Vastaukset
 Vanhasta mukufikir.org nettisivusta on mahdollista ottaa kuvia, mutta ne olisi huonolaatuisia ja käyttökelvottomia.
