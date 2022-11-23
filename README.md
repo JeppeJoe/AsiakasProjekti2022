@@ -80,6 +80,9 @@ domain = 0€ + 19€ *
 
 
 
+Käytämme hostaamiseen hetzner.comia
+
+
 
 ### Vastaukset
 Vanhasta mukufikir.org nettisivusta on mahdollista ottaa kuvia, mutta ne olisi huonolaatuisia ja käyttökelvottomia.
