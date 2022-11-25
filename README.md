@@ -125,25 +125,37 @@ Pöytäkirja:
 25.11
 
 Artun kanssa search bar läpi. (done)
+
 Kävijäreportointi läpi Mikon kanssa. (done)
+
 Yhteydenottolomake läpi Joakimin kanssa.
 
 Ohjeet palvelimen tekemisestä. (Jere) (Done)
 
 
 Linkki Facebookkiin (Hugo) TEHTY
+
+
 Hugon tiimin azure. (Hugo, Arttu) (Done)
+
 Somejakonappula. (Hugo/Tiimi?) (Done)
+
 Gallerian kuvat (David)
+
 Stories/About us (Erikan tiimi)
 
 Home sivun kuvien muokkaaminen. (Sisu)
+
 Kun sisu on valmis vaihdamme Mulun storyn nettisivulle ja more about us.
+
 Mulun storyn vaihtaminen (Jami) (jami yritti parhaansa) (Erikan tiimi jatkaa)
 
 Nettisivulla keksejä, EU lait. (Mikko) (done)
+
 Tekee cookie acceptista käyttäjäystävällisemmän (Mikko)
+
 Kartta nettisivulle. (Leo)
+
 SEO PLUGIN (Arttu)
 
 ?loginadminwp
