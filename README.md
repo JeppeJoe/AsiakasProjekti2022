@@ -148,7 +148,7 @@ Home sivun kuvien muokkaaminen. (Sisu)
 
 Kun sisu on valmis vaihdamme Mulun storyn nettisivulle ja more about us.
 
-Mulun storyn vaihtaminen (Jami) (jami yritti parhaansa) (Erikan tiimi jatkaa)
+Mulun storyn vaihtaminen (Jami) + (Erikan tiimi jatkaa)
 
 Nettisivulla keksejä, EU lait. (Mikko) (done)
 
