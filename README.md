@@ -44,3 +44,24 @@ https://colorhunt.co/palette/dce8baf3d179f09872f46060
 
 
 ![Mulufikir](https://user-images.githubusercontent.com/113332647/199446119-74724fcd-fdb6-4014-a0fa-3aadd9eb0501.png)
+
+25.11
+
+Artun kanssa search bar läpi. (done)
+Kävijäreportointi läpi Mikon kanssa. (done)
+Yhteydenottolomake läpi Joakimin kanssa.
+
+Ohjeet palvelimen tekemisestä. (Jere)
+
+
+Linkki Facebookkiin (Hugo) TEHTY
+Somejakonappula. (Hugo/Tiimi?)
+Gallerian kuvat (David)
+Stories/About us (Erikan tiimi)
+
+Home sivun kuvien muokkaaminen. (Sisu)
+Kun sisu on valmis vaihdamme Mulun storyn nettisivulle ja more about us.
+Mulun storyn vaihtaminen (Jami) (jami yritti parhaansa)
+
+?loginadminwp
+
